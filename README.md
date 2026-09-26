@@ -1,11 +1,13 @@
 # Awesome Jev Projects
 
-> 用 [Jev](https://typesafe.ai)（System One 决策模型）构建的项目精选合集。
-> 项目按类别整理，每个条目链接到作者的 X 主页及原帖。
+[English](README.md) | [中文](README.zh-CN.md)
 
-共 **194** 个项目，涵盖 11 个类别。
+> A curated collection of projects built with [Jev](https://typesafe.ai), a System One decision model.
+> Organized by category. Each entry links to the author's X profile and the original post.
 
-## 目录
+**194** projects across 11 categories.
+
+## Contents
 
 - [Agents](#agents) (19)
 - [Browser extensions](#browser-extensions) (7)
