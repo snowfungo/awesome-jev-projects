@@ -1,6 +1,6 @@
 # Awesome Jev 项目合集
 
-[English](README.md) | [中文](README.zh-CN.md)
+English | [中文](README.zh-CN.md) | [한국어](README.ko-KR.md) | [日本語](README.ja-JP.md)
 
 > 用 [Jev](https://typesafe.ai)（System One 决策模型）构建的项目精选合集。
 > 项目按类别整理，每个条目链接到作者的 X 主页及原帖。

@@ -1,6 +1,6 @@
 # Awesome Jev Projects
 
-[English](README.md) | [中文](README.zh-CN.md)
+English | [中文](README.zh-CN.md) | [한국어](README.ko-KR.md) | [日本語](README.ja-JP.md)
 
 > A curated collection of projects built with [Jev](https://typesafe.ai), a System One decision model.
 > Organized by category. Each entry links to the author's X profile and the original post.
